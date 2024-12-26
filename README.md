@@ -8,19 +8,25 @@ The Iris Flower Classification project is a classic machine learning problem tha
 The Iris dataset, originally introduced by Ronald Fisher in 1936, is widely used in the machine learning and data science community. It contains:
 
 150 samples (50 samples for each species)
+
 **Four features:**
 Sepal Length (cm)
 Sepal Width (cm)
 Petal Length (cm)
 Petal Width (cm)
+
 **Target variable:** Species (Setosa, Versicolor, Virginica)
+
 **Objectives:**
+
 **Exploratory Data Analysis (EDA):**
 Analyze the dataset's structure, patterns, and relationships.
 Visualize the data using scatter plots, box plots, histograms, and pair plots.
+
 **Data Preprocessing:**
 Handle any missing data (though the Iris dataset is typically clean).
 Standardize or normalize features for better performance.
+
 **Model Development:**
 **Use machine learning algorithms like:**
 Logistic Regression
