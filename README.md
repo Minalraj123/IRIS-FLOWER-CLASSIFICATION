@@ -20,10 +20,12 @@ Petal Width (cm)
 **Objectives:**
 
 **Exploratory Data Analysis (EDA):**
+
 Analyze the dataset's structure, patterns, and relationships.
 Visualize the data using scatter plots, box plots, histograms, and pair plots.
 
 **Data Preprocessing:**
+
 Handle any missing data (though the Iris dataset is typically clean).
 Standardize or normalize features for better performance.
 
